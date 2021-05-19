@@ -1,2 +1,2 @@
 # BCS2-Lab-Projects
- Random NLP stuffs 
+ Random NLP projects
