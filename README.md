@@ -1,2 +1,2 @@
 # BCS2-Lab-Projects
- Random NLP projects
+ Random Data Science projects (Mostly NLP)
