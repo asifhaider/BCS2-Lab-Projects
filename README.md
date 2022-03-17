@@ -1,2 +1,2 @@
 # BCS2-Lab-Projects
- Random Data Science projects (Mostly NLP)
+Personal research projects on Data Science (covering ML and NLP techniques)
